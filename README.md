@@ -1,9 +1,6 @@
-# Weather Now
+# react-weather-app
 
-This app was created with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React Application displaying current air temperature and some weather 
+description in asked location.
 
-The application allows user to find out the weather in a specific location at the current time.
-
-Data is taken from [Weather API](https://openweathermap.org/api) using REST API technology.
-
-Here's the [demo](https://yalandr.github.io/react-weather-app/).
+Just enter location (for example, 'Paris') in the input field and press 'Enter'.
