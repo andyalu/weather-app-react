@@ -9165,7 +9165,7 @@
       230: function (e, n, t) {
         e.exports =
           t.p +
-          "react-weather-app/static/media/logo_white_cropped.4595304db3173f1f94c5.png";
+          "weather-app-react/static/media/logo_white_cropped.4595304db3173f1f94c5.png";
       },
     },
     n = {};
